@@ -1,11 +1,3 @@
-let price = 120;
-function test() {
-   let price = 50;
-}
-test();
-console.log(price);
-
-
 // Задание 1
 function hello () {
     alert('Привет, Мир');
